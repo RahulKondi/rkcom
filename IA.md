@@ -7,3 +7,4 @@ Contains : Photograph, name, brief
 
 ### Portfolio
 Will have a list of projects. Each Project has its own page. 
+-Saky: should each project have a blog of sorts for a feed/updates?
