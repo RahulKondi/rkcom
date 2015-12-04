@@ -4,7 +4,7 @@ todo: basic adding of project - DONE
 
 todo: tags
 
-todo: profile
+todo: profile - DONE
 
 todo: index.php @ front - MOSTLY DONE, NEED IMAGE
 
