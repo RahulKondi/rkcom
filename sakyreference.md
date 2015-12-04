@@ -30,4 +30,4 @@ todo: footer black bar and no whitespace at the end
 
 todo: contact FAB
 
-todo: 
+todo: RSS feed -DONE
