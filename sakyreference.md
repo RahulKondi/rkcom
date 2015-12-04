@@ -2,7 +2,7 @@ todo: basic adding of post - DONE
 
 todo: basic adding of project - DONE
 
-todo: tags - DASHBOARD DONE, NEED DESIGN FOR FRONT
+todo: tags - DONE
 
 todo: profile - DONE
 
@@ -17,3 +17,8 @@ todo: basic editing of project - DONE
 todo: media library
 
 todo: server side non duplication of tags table
+
+todo: back button everywhere, not to previous post
+
+todo: boxed title for all pages
+
