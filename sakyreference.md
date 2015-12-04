@@ -2,7 +2,7 @@ todo: basic adding of post - DONE
 
 todo: basic adding of project - DONE
 
-todo: tags
+todo: tags - DASHBOARD DONE, NEED DESIGN FOR FRONT
 
 todo: profile - DONE
 
