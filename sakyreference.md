@@ -23,3 +23,11 @@ todo: back button everywhere, not to previous post
 todo: boxed title for all pages
 
 todo: projects - duration start and end
+
+todo: font - DONE
+
+todo: footer black bar and no whitespace at the end
+
+todo: contact FAB
+
+todo: 
