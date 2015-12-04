@@ -15,3 +15,5 @@ todo: basic editing of post - DONE
 todo: basic editing of project - DONE
 
 todo: media library
+
+todo: server side non duplication of tags table
