@@ -22,3 +22,4 @@ todo: back button everywhere, not to previous post
 
 todo: boxed title for all pages
 
+todo: projects - duration start and end
