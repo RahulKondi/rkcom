@@ -30,4 +30,6 @@ todo: footer black bar and no whitespace at the end - WIP
 
 todo: contact FAB
 
-todo: RSS feed -DONE
+todo: RSS feed - DONE
+
+todo: dash redesign - DONE
